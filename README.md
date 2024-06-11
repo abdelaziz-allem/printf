@@ -87,6 +87,3 @@ linux>$  ./print_program
 Hello, Holberton is 98.
 linux>$
 ```
-## Contributors
-- [Miguel Palacios](https://github.com/MiguelP4lacios)
-- [Daniela Lopera](https://github.com/danielaloperahernandez)
